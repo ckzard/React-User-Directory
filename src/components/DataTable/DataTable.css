@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+table {
+    width: 100px;
+	height: 100px;
+	margin: auto;
+    margin-top: 20px;
+    background-color:rgb(201, 212, 135);
+    box-shadow: 5px 10px 20px;
+}
+
+tr {
+    box-shadow: 5px 3px 3px;
+}

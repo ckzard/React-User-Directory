@@ -1,4 +1,5 @@
 import React, { Component, useState, useEffect } from "react";
+import './Container.css';
 import Title from '../Title/Title'
 import DataTable from '../DataTable/DataTable'
 import API from '../../utils/API'
@@ -40,7 +41,8 @@ const Container = () => {
             </div>
             <div>
             {/* here we apply the filter function to our users data before its rendered */}
-            <DataTable data={filter(users)}/>
+            <DataTable 
+            data={filter(users)}/>
             </div>
             
         </div>
