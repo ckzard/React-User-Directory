@@ -1,6 +1,8 @@
 
   # React User Directory
 
+  ## Live Site: https://react-user-directory-x.netlify.app/
+
   ![Alt Text](assets/gifs/ui.gif)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
